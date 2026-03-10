@@ -1,2 +1,2 @@
 Demo video
-https://github.com/mugileshwarikrishnan-dotcom/Product-Inventory-Management-system.git
+https://drive.google.com/file/d/14hvk97FGd0cppXJPpZXnwCSqsr-pFS1l/view?usp=sharing
